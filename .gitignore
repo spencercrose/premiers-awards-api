@@ -109,3 +109,6 @@ dist
 
 # Package locked
 package-lock.json
+
+# Intellij config
+.idea
